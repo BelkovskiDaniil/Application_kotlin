@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Application_kotlin</string>
+    <string name="CLIENT_CHARACTERISTIC_CONFIG">00002902-0000-1000-8000-00805f9b34fb"</string>
+    <string name="temperature">Temperature</string>
+    <string name="excess">Excess</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="velocity">Velocity</string>
+    <string name="velocity_0_0">Velocity: 0.0</string>
+    <string name="_50_32_5f_61_af_84">50:32:5F:61:AF:84</string>
+    <string name="temperature_0_0">Temperature: 0.0</string>
+    <string name="excess_0_0">Excess: 0.0</string>
+    <string name="acceleration_0_0">Acceleration: 0.0</string>
+</resources>
